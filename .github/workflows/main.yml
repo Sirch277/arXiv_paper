@@ -1,0 +1,34 @@
+name: arXiv monitor
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'   # Mondays 08:00 Beijing time (GitHub cron is always UTC)
+  workflow_dispatch:        # adds a manual "Run workflow" button for testing
+
+permissions:
+  contents: write           # allows the bot to commit the digest + memory back
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run the agent
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}     # optional; empty = free heuristic brain
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}      # optional
+          LLM_MODEL: ${{ vars.LLM_MODEL }}            # optional
+        run: python run.py    # auto brain: uses the LLM if the secret exists, else heuristic
+
+      - name: Commit digest and memory back to the repo
+        run: |
+          git config user.name "arxiv-monitor-bot"
+          git config user.email "actions@github.com"
+          git add digests memory
+          git diff --cached --quiet || git commit -m "digest: $(date +%F)"
+          git push
