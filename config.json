@@ -1,0 +1,36 @@
+{
+  "profile": {
+    "name": "ERC & sentiment analysis researcher",
+    "interests": [
+      "emotion recognition in conversation (ERC)",
+      "multimodal emotion recognition (text + audio + video)",
+      "sentiment analysis and aspect-based sentiment analysis",
+      "LLMs for affective computing",
+      "dialogue systems with emotion awareness"
+    ],
+    "keywords": [
+      "emotion recognition in conversation", "ERC", "sentiment analysis",
+      "aspect-based sentiment", "multimodal emotion", "affective computing",
+      "emotion detection", "emotion-aware dialogue", "empathetic response",
+      "valence arousal", "emotion cause"
+    ],
+    "disinterests": [
+      "stock market sentiment", "financial sentiment", "political polling"
+    ],
+    "flag_threshold": 0.35
+  },
+  "arxiv": {
+    "queries": [
+      "all:\"emotion recognition in conversation\"",
+      "all:\"multimodal emotion recognition\"",
+      "all:\"sentiment analysis\" AND cat:cs.CL",
+      "all:\"affective computing\" AND cat:cs.CL"
+    ],
+    "max_results_per_query": 25,
+    "lookback_days": 7
+  },
+  "output": {
+    "digest_dir": "digests",
+    "max_papers_in_digest": 10
+  }
+}
