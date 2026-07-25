@@ -1,0 +1,58 @@
+{
+  "2607.17366": {
+    "title": "EII-SCL: Harnessing Emotional Inertia for Multimodal Emotion Recognition in Conversation",
+    "summary": "Multimodal emotion recognition in conversation (MERC) achieves accurate predictions by integrating multimodal and contextual information in dialogues. While current MERC approaches focus on modeling complex contextual dependencies in conversation, they often overlook the impact of contextual emotional inertia in emotion shift, leading to sub-optimal performance.",
+    "relevance": 0.9,
+    "flagged": true,
+    "rationale": "matched keywords: emotion recognition in conversation, ERC, multimodal emotion",
+    "processed_at": "2026-07-25T17:29:01.038185+00:00"
+  },
+  "2607.18336": {
+    "title": "EmoEUS: Uncertainty Supervision for Multimodal Emotion Recognition in Conversation",
+    "summary": "Multimodal emotion recognition in conversation (MERC) can leverage multimodal and contextual cues to boost recognition performance. However, existing fusion approaches in MERC often ignore modality-specific uncertainty across utterances caused by conflicting cues, varying noise, and missing modality-specific signals.",
+    "relevance": 0.9,
+    "flagged": true,
+    "rationale": "matched keywords: emotion recognition in conversation, ERC, multimodal emotion",
+    "processed_at": "2026-07-25T17:29:01.038459+00:00"
+  },
+  "2607.21013": {
+    "title": "EmoAgent-R1: Towards Multimodal Emotion Understanding with Reinforcement Learning-based Dynamic Agent Specialization",
+    "summary": "Multimodal large language models (MLLMs) have achieved impressive performance in multimodal emotion recognition (MER) tasks and lifted MER to a new level that is complex emotion understanding with advanced video understanding abilities and natural language description. However, existing MLLM-based methods often use a fixed prompt to perceive the emotions, ignoring the dynamicity and complexity of the emotion source in the multimodal inputs.",
+    "relevance": 0.72,
+    "flagged": true,
+    "rationale": "matched keywords: ERC, multimodal emotion",
+    "processed_at": "2026-07-25T17:29:01.038762+00:00"
+  },
+  "2607.18109": {
+    "title": "SpEmoC: A Balanced Speaker-Segment Multimodal Emotion Benchmark",
+    "summary": "Understanding human emotions in spoken conversations is a key challenge in affective computing, with applications in empathetic AI, human computer interaction, and mental health monitoring. However, existing datasets vary in scale, emotion distribution, modality alignment, and data partitioning strategies, which can influence reliable cross-dataset generalization and minority-emotion modeling.",
+    "relevance": 0.96,
+    "flagged": true,
+    "rationale": "matched keywords: multimodal emotion, affective computing",
+    "processed_at": "2026-07-25T17:29:01.039055+00:00"
+  },
+  "2607.20056": {
+    "title": "Language-Specific versus Cross-Lingual Knowledge Graphs for Implicit Aspect Identification in Arabic: A Comparative Study of Reasoning and Adaptation Strategies",
+    "summary": "Aspect-based sentiment analysis (ABSA) in Arabic must recover both explicitly stated aspects and implicit aspects that are never named in the text. Implicit identification typically relies on an auxiliary knowledge source (e.g., a knowledge graph (KG)) linking opinion cues to aspect categories, but for a lower-resource language the practitioner faces a design choice: reuse a mature English KG through multilingual embeddings, or build a smaller native Arabic KG.",
+    "relevance": 0.48,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis, aspect-based sentiment",
+    "processed_at": "2026-07-25T17:29:01.039368+00:00"
+  },
+  "2607.19794": {
+    "title": "TriAgent: Divergence-Aware Multi-Agent Committees for Cost-Efficient Financial Sentiment Analysis",
+    "summary": "Production LLM-based financial sentiment analysis faces a structural cost trap: most queries are trivially classifiable, yet expensive cloud reasoners process them all, and the bill scales linearly with user count. We present TriAgent, a multi-agent committee stratified by contextual granularity -- a word-level lexicon (VADER), a sentence-level domain transformer (FinBERT), and a cross-sentence reasoner (Qwen2.5, 0.5B-14B-4bit, with Mistral-7B and Phi-3.5-mini cross-family checks).",
+    "relevance": 0.05,
+    "flagged": false,
+    "rationale": "matched keywords: sentiment analysis; excluded topic: financial sentiment",
+    "processed_at": "2026-07-25T17:29:01.039697+00:00"
+  },
+  "2607.17262": {
+    "title": "Should Missing Modalities Always Be Necessary to Repair for Multi-modal Sentiment Analysis?",
+    "summary": "Existing methods for multimodal sentiment analysis (MSA) under missing modalities usually follow a repair-first paradigm. We revisit this assumption and ask: \\emph{should every missing modality be repaired?} A per-sample oracle analysis shows the answer is not always: full-modality input is optimal for only a small fraction of samples, and every modality subset is preferred by some samples.",
+    "relevance": 0.42,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-07-25T17:29:01.039996+00:00"
+  }
+}
