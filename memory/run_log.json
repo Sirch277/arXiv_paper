@@ -41,5 +41,13 @@
     "papers_considered": 0,
     "flagged": [],
     "digest": "digests/digest_2026-07-27.md"
+  },
+  {
+    "at": "2026-08-10T00:54:31.622037+00:00",
+    "papers_considered": 1,
+    "flagged": [
+      "2608.04186"
+    ],
+    "digest": "digests/digest_2026-08-10.md"
   }
 ]

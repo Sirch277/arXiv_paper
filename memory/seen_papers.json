@@ -54,5 +54,13 @@
     "flagged": true,
     "rationale": "matched keywords: sentiment analysis",
     "processed_at": "2026-07-25T17:29:01.039996+00:00"
+  },
+  "2608.04186": {
+    "title": "Large Language Models for Low-Resource Languages: A Conceptual Framework for an Electronic Explanatory Dictionary of the Tajik Language",
+    "summary": "This paper presents a conceptual framework for developing an electronic explanatory dictionary of the Tajik language using large language models (LLMs). The relevance of the work stems from the absence of a comprehensive digital lexicographic resource for Tajik that is comparable in functionality to dictionaries for high-resource languages, and from the limited adaptation of modern natural language processing technologies to low-resource language systems.",
+    "relevance": 0.42,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-08-10T00:54:31.621513+00:00"
   }
 }
