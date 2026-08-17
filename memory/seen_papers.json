@@ -62,5 +62,29 @@
     "flagged": true,
     "rationale": "matched keywords: sentiment analysis",
     "processed_at": "2026-08-10T00:54:31.621513+00:00"
+  },
+  "2608.10448": {
+    "title": "Rationale-Guided Learning for Multimodal Emotion Recognition",
+    "summary": "Multimodal emotion recognition in conversation (MERC) requires understanding complex interactions between verbal and non-verbal cues. However, most existing approaches fundamentally treat this as a direct input-output (multimodal cues-emotion labels) mapping problem, overlooking the causal reasoning that humans use when interpreting emotions.",
+    "relevance": 1.0,
+    "flagged": true,
+    "rationale": "matched keywords: emotion recognition in conversation, ERC, multimodal emotion",
+    "processed_at": "2026-08-17T00:36:48.679489+00:00"
+  },
+  "2608.11049": {
+    "title": "Multiclass Sentiment Analysis for Identifying Political Viewpoints",
+    "summary": "The rapid growth of social media has created vast amounts of political discourse, which provides valuable opportunities to analyze public opinions and identify different political perspectives. Sentiment Analysis (SA) is a core task in Natural Language Processing (NLP) that allows the computational study of attitudes and opinions in textual data, and has become increasingly important for understanding political discourse.",
+    "relevance": 0.3,
+    "flagged": false,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-08-17T00:36:48.679876+00:00"
+  },
+  "2608.09834": {
+    "title": "RA-FinBERT: Rule-aware LoRA adaptation for low-resource financial sentiment classification",
+    "summary": "Financial sentiment analysis converts unstructured financial news into quantitative signals that can support market analysis and decision-making. Existing work on resource-efficient financial NLP has largely focused on compressing or adapting pretrained language models, with less attention to combining contextual representations with lightweight rule-derived features.",
+    "relevance": 0.05,
+    "flagged": false,
+    "rationale": "matched keywords: sentiment analysis; excluded topic: financial sentiment",
+    "processed_at": "2026-08-17T00:36:48.680267+00:00"
   }
 }

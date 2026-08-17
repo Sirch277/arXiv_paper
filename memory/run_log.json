@@ -49,5 +49,13 @@
       "2608.04186"
     ],
     "digest": "digests/digest_2026-08-10.md"
+  },
+  {
+    "at": "2026-08-17T00:36:48.680728+00:00",
+    "papers_considered": 3,
+    "flagged": [
+      "2608.10448"
+    ],
+    "digest": "digests/digest_2026-08-17.md"
   }
 ]
