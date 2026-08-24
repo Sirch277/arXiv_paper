@@ -86,5 +86,29 @@
     "flagged": false,
     "rationale": "matched keywords: sentiment analysis; excluded topic: financial sentiment",
     "processed_at": "2026-08-17T00:36:48.680267+00:00"
+  },
+  "2608.18386": {
+    "title": "TTSD-FAR: Test-Time Self-Distillation with Fisher-Anchored Restoration for Missing-Modality Emotion Recognition in LVLMs",
+    "summary": "Large video-language models (LVLMs) have shown remarkable performance on multimodal tasks like multimodal emotion recognition (ER) in the wild. ER is inherently multimodal, requiring a joint understanding of facial expressions, vocalizations, language, biosignals, and gestures.",
+    "relevance": 0.54,
+    "flagged": true,
+    "rationale": "matched keywords: multimodal emotion",
+    "processed_at": "2026-08-24T00:37:58.381194+00:00"
+  },
+  "2608.19971": {
+    "title": "Robust Incomplete Multimodal Sentiment Analysis via Iterative Proxy Correction",
+    "summary": "Multimodal sentiment analysis aims to infer affective states by integrating language, visual, and acoustic cues. However, real-world multimodal inputs are often incomplete or corrupted, which can weaken cross-modal complementarity and introduce misleading information into downstream fusion.",
+    "relevance": 0.54,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-08-24T00:37:58.381682+00:00"
+  },
+  "2608.17931": {
+    "title": "SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis",
+    "summary": "Recent advances in AI have revolutionized speech processing, yet effective speech understanding requires discerning not just what is said, but how it is said. Speech Sentiment Analysis plays a critical role in decoding these paralinguistic cues for diverse real-world applications such as recruitment and customer service.",
+    "relevance": 0.66,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-08-24T00:37:58.382062+00:00"
   }
 }
