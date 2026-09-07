@@ -110,5 +110,45 @@
     "flagged": true,
     "rationale": "matched keywords: sentiment analysis",
     "processed_at": "2026-08-24T00:37:58.382062+00:00"
+  },
+  "2609.04690": {
+    "title": "Enhancing Multimodal Emotion Recognition via Multi-Feature Encoding and Attention-Based Fusion",
+    "summary": "Multimodal emotion recognition has attracted growing interest due to its importance in human-computer interaction, remote education, and healthcare. This paper proposes a novel multimodal emotion recognition framework that integrates rich audio and visual feature extraction with an attention-based fusion strategy.",
+    "relevance": 0.54,
+    "flagged": true,
+    "rationale": "matched keywords: multimodal emotion",
+    "processed_at": "2026-09-07T01:45:38.835416+00:00"
+  },
+  "2609.03569": {
+    "title": "Occlusion-Robust Multimodal Emotion Recognition in VR via Fusion of Facial Images and EMG",
+    "summary": "Head-mounted displays (HMDs) fundamentally limit emotion recognition in virtual reality (VR): by occluding the upper face, they render conventional image-based facial expression analysis incomplete, particularly for applications requiring real-time affective assessment. We address this challenge by fusing lower-face video with facial electromyography (EMG) from the occluded upper face to classify seven emotional categories (six basic emotions plus neutral).",
+    "relevance": 0.78,
+    "flagged": true,
+    "rationale": "matched keywords: multimodal emotion",
+    "processed_at": "2026-09-07T01:45:38.835893+00:00"
+  },
+  "2608.30563": {
+    "title": "Modality Disentangled Learning for Incomplete Multimodal Emotion Recognition: A Primitive Memory Distillation Perspective",
+    "summary": "Multimodal Emotion Recognition (MER) systems often suffer from missing modalities in real-world scenarios. Existing methods usually generate, align, or distill missing modalities as a whole, overlooking the heterogeneous nature of the information carried by each modality.",
+    "relevance": 0.54,
+    "flagged": true,
+    "rationale": "matched keywords: multimodal emotion",
+    "processed_at": "2026-09-07T01:45:38.836455+00:00"
+  },
+  "2608.30842": {
+    "title": "Thesis Proposal: Toward a Human-Centered and Perspective-Aware Framework for Reproducible ML Evaluation and AI Alignment",
+    "summary": "Humans play a vital role at every stage of AI development, from data collection and curation to model development and evaluation. However, humans often disagree with each other and sometimes with themselves over time.",
+    "relevance": 0.42,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-09-07T01:45:38.836797+00:00"
+  },
+  "2608.30425": {
+    "title": "Generative Models Enhanced by Sequence Labelling and Aspect-Code Switching Improve Cross-lingual Aspect-Based Sentiment Analysis",
+    "summary": "Cross-lingual aspect-based sentiment analysis (ABSA) transfers knowledge from a source language with annotated data to a target language, enabling fine-grained sentiment analysis without annotated target-language data. While monolingual ABSA has seen significant progress, cross-lingual ABSA remains underexplored, especially for complex tasks involving multiple sentiment elements like target-aspect-sentiment detection (TASD).",
+    "relevance": 0.72,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis, aspect-based sentiment",
+    "processed_at": "2026-09-07T01:45:38.837156+00:00"
   }
 }
