@@ -150,5 +150,45 @@
     "flagged": true,
     "rationale": "matched keywords: sentiment analysis, aspect-based sentiment",
     "processed_at": "2026-09-07T01:45:38.837156+00:00"
+  },
+  "2609.39072": {
+    "title": "Beyond Text: LLM-Based Dimensional Emotion Evaluation in Multimodal Dialogue",
+    "summary": "Emotion recognition in conversation has been widely studied, but applying Large Language Models (LLMs) to continuous dimensional emotion evaluation in multimodal dialogue remains largely unexplored. We propose an LLM-based framework that performs discrete emotion recognition and Valence-Arousal-Dominance (VAD) dimensional evaluation on IEMOCAP, incorporating acoustic cues as natural language descriptions following the SpeechCueLLM approach.",
+    "relevance": 0.54,
+    "flagged": true,
+    "rationale": "matched keywords: emotion recognition in conversation",
+    "processed_at": "2026-10-05T02:54:47.119155+00:00"
+  },
+  "2609.39413": {
+    "title": "Aligning the Incomplete: Joint Distribution Calibration for Multimodal EEG-Eye Emotion Recognition",
+    "summary": "The success of cross-subject multimodal emotion recognition hinges on maintaining the consistency of the joint data distribution across individuals. However, real-world deployment frequently triggers the \\emph{asymmetric joint distribution collapse}: EEG signals suffer from severe cross-subject distribution shifts, while eye movements sensors are susceptible to packet loss and tracking failures.",
+    "relevance": 0.72,
+    "flagged": true,
+    "rationale": "matched keywords: ERC, multimodal emotion",
+    "processed_at": "2026-10-05T02:54:47.119584+00:00"
+  },
+  "2609.38820": {
+    "title": "BARRAC: Adaptation of an English Aspect-based Sentiment Analysis Approach for Classification Tasks in Arabic Dialects",
+    "summary": "With the rapid growth of Arabic NLP, several models, datasets and benchmarks have been reported. This paper asks whether approaches developed for majority languages like English can be adapted to Arabic tasks.",
+    "relevance": 0.48,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis, aspect-based sentiment",
+    "processed_at": "2026-10-05T02:54:47.120105+00:00"
+  },
+  "2609.37408": {
+    "title": "Look What You Made Us Cluster: Hate Narrative Extraction from Reddit Discourse",
+    "summary": "Narrative extraction allows us to identify online hate narratives, supporting the construction of rigorous detection systems. Existing computational approaches, however, are limited in precision as they rely on semantic representations, which tend to capture only surface-level meaning.",
+    "relevance": 0.6,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis, aspect-based sentiment",
+    "processed_at": "2026-10-05T02:54:47.120497+00:00"
+  },
+  "2609.35293": {
+    "title": "Decide, Don't Generate: Competitive Dimensional ABSA with Jev's Typed Decisions",
+    "summary": "Aspect-based sentiment analysis (ABSA) has largely turned to text generation. We show that competitive dimensional ABSA does not need it.",
+    "relevance": 0.6,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis, aspect-based sentiment",
+    "processed_at": "2026-10-05T02:54:47.120920+00:00"
   }
 }
