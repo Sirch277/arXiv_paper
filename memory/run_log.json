@@ -91,5 +91,14 @@
       "2609.35293"
     ],
     "digest": "digests/digest_2026-10-05.md"
+  },
+  {
+    "at": "2026-10-12T03:09:52.479328+00:00",
+    "papers_considered": 5,
+    "flagged": [
+      "2610.13013",
+      "2610.09464"
+    ],
+    "digest": "digests/digest_2026-10-12.md"
   }
 ]

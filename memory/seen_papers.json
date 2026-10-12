@@ -190,5 +190,45 @@
     "flagged": true,
     "rationale": "matched keywords: sentiment analysis, aspect-based sentiment",
     "processed_at": "2026-10-05T02:54:47.120920+00:00"
+  },
+  "2610.13013": {
+    "title": "Evidential Multimodal Transformers with Dempster-Shafer Fusion for Emotion Recognition",
+    "summary": "Softmax-based multimodal emotion recognition methods often assign high confidence even when sensor data are corrupted or contradictory, for example when facial expressions suggest positive valence while vocal prosody indicates negative arousal. We present an Evidential Multimodal Transformer with Dempster-Shafer Fusion (EMT-DS) that addresses this problem through formal uncertainty quantification.",
+    "relevance": 0.54,
+    "flagged": true,
+    "rationale": "matched keywords: multimodal emotion",
+    "processed_at": "2026-10-12T03:09:52.476835+00:00"
+  },
+  "2610.11695": {
+    "title": "Structured Sentiment Analysis Using Sequence Labeling as Dependency Graph Parsing",
+    "summary": "This study addresses the problem of structured sentiment analysis, whose goal is to obtain a fine-grained sentiment graph where the nodes represent spans of sentiment holders, targets, and expressions, while the arcs define the relationships among them. Our proposed approach casts the task as dependency graph parsing, but departs from traditional parsing methods by solving it through sequence labeling.",
+    "relevance": 0.3,
+    "flagged": false,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-10-12T03:09:52.477303+00:00"
+  },
+  "2610.10318": {
+    "title": "Nobody Truly Agrees on Sentiment: Humans, Bespoke Tools, and LLMs Struggle with Social Media Texts",
+    "summary": "Social media is a rich source of real-time public sentiment, but widely used sentiment analysis tools are often applied without understanding their limitations. In this study, we evaluate the inter-rater reliability of three bespoke sentiment analysis tools (TextBlob, VADER, and Twitter-roBERTa-base) and three large language models (LLMs: Qwen3-32B, GPT-OSS-120B, Llama-4-Maverick-17B) against six human raters across 100 tweets.",
+    "relevance": 0.3,
+    "flagged": false,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-10-12T03:09:52.477793+00:00"
+  },
+  "2610.09464": {
+    "title": "BanglaRhet: Benchmarking Classical and Transformer Models for Rhetorical and Persuasion Detection in Bangla Political Speech",
+    "summary": "Political discourse often uses rhetorical and persuasive language to frame narratives, influence public opinion, and mobilize audiences. While Bangla natural language processing has made progress in sentiment analysis and opinion mining, systematic benchmarking of transformer models for fine-grained rhetorical and persuasion technique detection in Bangla political speech remains largely underexplored.",
+    "relevance": 0.66,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-10-12T03:09:52.478252+00:00"
+  },
+  "2610.06298": {
+    "title": "DialectSentEval 2026: Arabic Dialect Sentiment Analysis and Swapping Shared Task",
+    "summary": "Sentiment analysis is a fundamental problem in Natural Language Processing (NLP). Standard sentiment classification for the Arabic language remains challenging due to the high volume of dialectal Arabic.",
+    "relevance": 0.3,
+    "flagged": false,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-10-12T03:09:52.478701+00:00"
   }
 }
