@@ -230,5 +230,37 @@
     "flagged": false,
     "rationale": "matched keywords: sentiment analysis",
     "processed_at": "2026-10-12T03:09:52.478701+00:00"
+  },
+  "2610.18587": {
+    "title": "GeoMER: A Joint Euclidean-Hyperbolic Geometry Framework for Multimodal Emotion Recognition",
+    "summary": "Multimodal Emotion Recognition (MER) aims to understand human emotions by integrating information from multiple modalities such as speech and text. Psychological studies suggest that emotions exhibit latent hierarchical structured relationships in their semantic representations.",
+    "relevance": 0.54,
+    "flagged": true,
+    "rationale": "matched keywords: multimodal emotion",
+    "processed_at": "2026-10-19T02:17:59.049594+00:00"
+  },
+  "2610.22906": {
+    "title": "FederatedBytes: Tokenizer-Free, Byte-Level Small Language Models for Efficient Multimodal Federated Learning",
+    "summary": "Federated Learning (FL) is a powerful machine learning framework that allows building a global model from the contributions of multiple, distributed clients, while ensuring the privacy of their local data. However, its heavy computational and communication overheads challenge its use for contemporary AI workloads such as natural language processing (NLP) and multimodal analysis.",
+    "relevance": 0.42,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-10-19T02:17:59.050173+00:00"
+  },
+  "2610.19190": {
+    "title": "NEPSEE: A Double-Annotated Benchmark for Nepali Sentiment Analysis",
+    "summary": "Many sentiment datasets use one annotator for each item, so the test labels show the conventions of that person. We build a Nepali benchmark from two annotators who labelled the same sentences blind.",
+    "relevance": 0.48,
+    "flagged": true,
+    "rationale": "matched keywords: ERC, sentiment analysis",
+    "processed_at": "2026-10-19T02:17:59.050731+00:00"
+  },
+  "2610.17243": {
+    "title": "From Conceptual EneMonIE to an Executable Backend: A Modular Architecture for Energy Information Extractionand Grounded Question Answering",
+    "summary": "The original EneMonIE proposal describes a Web-based semantic system for continuously monitoring energy trends through targeted information extraction from heterogeneous online media. This article presents EneMonIE-Backend, an implementation-derived redesign that converts that conceptual pipeline into a modular, executable, and application-independent backend.",
+    "relevance": 0.54,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-10-19T02:17:59.051324+00:00"
   }
 }
