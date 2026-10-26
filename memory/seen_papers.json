@@ -262,5 +262,45 @@
     "flagged": true,
     "rationale": "matched keywords: sentiment analysis",
     "processed_at": "2026-10-19T02:17:59.051324+00:00"
+  },
+  "2610.32481": {
+    "title": "CASE: Confusion-Aware Skill Evolution for Frozen Multimodal Emotion Models",
+    "summary": "Multimodal large language models (MLLMs) have substantially advanced Multimodal Emotion Recognition (MER) by enabling fine-grained emotion understanding through reasoning over multimodal evidence. However, they still exhibit systematic confusion between semantically adjacent emotions with highly overlapping multimodal cues.",
+    "relevance": 0.66,
+    "flagged": true,
+    "rationale": "matched keywords: multimodal emotion",
+    "processed_at": "2026-10-26T02:12:34.174948+00:00"
+  },
+  "2610.30651": {
+    "title": "AGF-Net: A Robust Multimodal Emotion Recognition Model for Asynchronous Audio-Visual Signals Based on Predictive Dynamic Fusion with Negative Learning",
+    "summary": "This study develops an audio-visual emotion recognition system that integrates automatic utterance segmentation with multimodal fusion. Unlike conventional methods that rely on manually annotated utterance boundaries, the proposed system automatically generates candidate segments from continuous dialogue and extracts the corresponding audio and visual features for emotion classification.",
+    "relevance": 0.54,
+    "flagged": true,
+    "rationale": "matched keywords: multimodal emotion",
+    "processed_at": "2026-10-26T02:12:34.175626+00:00"
+  },
+  "2610.29430": {
+    "title": "MERP: A Latent-Bottleneck Framework for Robust Multi-Modal Multi-Label Emotion Recognition",
+    "summary": "Multimodal multi-label emotion recognition is important for affect-aware systems, but models trained with complete text, visual, and acoustic streams often degrade sharply when some streams are unavailable at deployment. We address this train-test gap by learning a compact representation that preserves emotion-specific evidence from any available subset of modalities.",
+    "relevance": 0.72,
+    "flagged": true,
+    "rationale": "matched keywords: ERC, multimodal emotion",
+    "processed_at": "2026-10-26T02:12:34.176236+00:00"
+  },
+  "2610.27521": {
+    "title": "Multiscale Temporal-Spectral-Spatial EEG Learning With Modality-Specific and Modality-Invariant Representations for Emotion Recognition",
+    "summary": "Multimodal physiological signals provide complementary cues for emotion recognition. They also raise two related challenges.",
+    "relevance": 0.66,
+    "flagged": true,
+    "rationale": "matched keywords: multimodal emotion",
+    "processed_at": "2026-10-26T02:12:34.176778+00:00"
+  },
+  "2610.30067": {
+    "title": "GoiBERT: Compact Vietnamese Language Models via Two-Stage Knowledge Distillation",
+    "summary": "Vietnamese pre-trained encoders have improved rapidly, but the strongest ones are large, multilingual-vocabulary models or depend on external word segmentation, which makes them costly to deploy. We present GoiBERT, a family of two compact Vietnamese encoders with 26M and 49M parameters that operate directly on raw text.",
+    "relevance": 0.72,
+    "flagged": true,
+    "rationale": "matched keywords: sentiment analysis, aspect-based sentiment",
+    "processed_at": "2026-10-26T02:12:34.177343+00:00"
   }
 }
