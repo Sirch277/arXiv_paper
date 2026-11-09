@@ -302,5 +302,37 @@
     "flagged": true,
     "rationale": "matched keywords: sentiment analysis, aspect-based sentiment",
     "processed_at": "2026-10-26T02:12:34.177343+00:00"
+  },
+  "2611.08860": {
+    "title": "Mind the Divergence: Divergence-Guided Reliability-Aware Fusion and Adaptive LLM Prompting for Conversational Emotion Recognition",
+    "summary": "Multimodal emotion recognition in conversations (MERC) integrates textual, acoustic, and visual cues to identify utterance-level emotions. However, existing approaches generally do not explicitly adapt multimodal processing to the degree of inter-modal predictive disagreement.",
+    "relevance": 0.9,
+    "flagged": true,
+    "rationale": "matched keywords: emotion recognition in conversation, ERC, multimodal emotion",
+    "processed_at": "2026-11-09T03:33:57.486475+00:00"
+  },
+  "2611.08323": {
+    "title": "Polarity Classification with Multitask Learning Syntax Augmentation",
+    "summary": "Sentiment Analysis (SA) is a fundamental NLP task concerned with the identification and categorization of subjective information in text. While lexicon-based methods offer transparency, they often struggle with linguistic phenomena such as negation and intensification.",
+    "relevance": 0.3,
+    "flagged": false,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-11-09T03:33:57.486871+00:00"
+  },
+  "2611.02989": {
+    "title": "Finding Errors Is Not Enough: Selective Model Escalation for Entity-Targeted Sentiment Analysis",
+    "summary": "Improving a sentiment classifier with limited resources involves more than simply deciding how much data to collect or which model to train. A labelled collection may lack examples of an important class.",
+    "relevance": 0.3,
+    "flagged": false,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-11-09T03:33:57.487323+00:00"
+  },
+  "2611.02985": {
+    "title": "Distilling Literary Sentiment from LLM Annotations into an Ordinal BERT Model",
+    "summary": "The scarcity of human-annotated literary corpora limits the development of domain-specific sentiment analysis models. This study investigates whether LLM-generated annotations can supervise smaller models for literary sentiment analysis.",
+    "relevance": 0.3,
+    "flagged": false,
+    "rationale": "matched keywords: sentiment analysis",
+    "processed_at": "2026-11-09T03:33:57.487724+00:00"
   }
 }

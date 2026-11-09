@@ -123,5 +123,13 @@
       "2610.30067"
     ],
     "digest": "digests/digest_2026-10-26.md"
+  },
+  {
+    "at": "2026-11-09T03:33:57.488224+00:00",
+    "papers_considered": 4,
+    "flagged": [
+      "2611.08860"
+    ],
+    "digest": "digests/digest_2026-11-09.md"
   }
 ]
